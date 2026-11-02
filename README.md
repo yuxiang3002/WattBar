@@ -1,3 +1,5 @@
+<img src="AppIcon.png" width="128" alt="WattBar 圖示">
+
 # WattBar
 
 macOS 選單列小工具，即時顯示 MacBook 目前的功耗、充電器輸出和電池狀態。
